@@ -1,0 +1,1 @@
+from stud.model_architectures.srl_models import Baseline_SRL_Model, BERT_SRL_Model
